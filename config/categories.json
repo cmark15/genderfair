@@ -1,0 +1,11 @@
+{
+  "_note": "CANDIDATE categories used ONLY for the single-text demo when no corpus is loaded. For the experiment, categories are taken from the corpus Bias_Category values. Confirm any category against your literature before reporting it.",
+  "candidate_categories": [
+    "Gender stereotypes",
+    "Gendered occupational language",
+    "Gender-exclusive language",
+    "Gender assumptions",
+    "Generic masculine language",
+    "Gender-based descriptions"
+  ]
+}

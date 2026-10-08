@@ -1,0 +1,15 @@
+{
+  "name": "DEFAULT PLACEHOLDER INSTRUMENT - replace with your own (upload JSON in the Expert Validation tab)",
+  "scale_min": 1,
+  "scale_max": 5,
+  "scale_labels": {"1": "Very poor", "2": "Poor", "3": "Fair", "4": "Good", "5": "Excellent"},
+  "criteria": [
+    {"key": "inclusivity", "label": "Inclusivity", "description": "The alternative removes the gender bias."},
+    {"key": "meaning", "label": "Meaning preservation", "description": "The original meaning is preserved."},
+    {"key": "context", "label": "Contextual appropriateness", "description": "Fits the context, tone and intended referent."},
+    {"key": "grammar", "label": "Grammatical correctness", "description": "The alternative is grammatical."},
+    {"key": "clarity", "label": "Clarity", "description": "The alternative is clear and natural."},
+    {"key": "overall", "label": "Overall acceptability", "description": "Overall, the alternative is acceptable."}
+  ],
+  "interpretation_bands": null
+}
